@@ -1,0 +1,9 @@
+<!--pages/demo04/demo04.wxml-->
+<text>pages/demo04/demo04.wxml</text>
+
+<input type="text" bindinput="handleInput"/>
+<button bindtap="handletap" data-chuandi="{{1}}">+</button>
+<button bindtap="handletap" data-chuandi="{{-1}}">-</button>
+<view>
+	{{num}}
+</view>

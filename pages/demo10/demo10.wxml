@@ -1,0 +1,11 @@
+<swiper autoplay interval="2000" circular indicator-dots="{{true}}" indicator-color="#aaa" indicator-active-color="#0094ff">
+	<swiper-item>
+		<image mode="widthFix" src="//gw.alicdn.com/imgextra/i3/124/O1CN01SgYo2D1CmpiRoZcRk_!!124-0-lubanu.jpg"></image>
+	</swiper-item>
+	<swiper-item>
+		<image mode="widthFix" src="//aecpm.alicdn.com/simba/img/TB1CWf9KpXXXXbuXpXXSutbFXXX.jpg_q50.jpg"></image>
+	</swiper-item>
+	<swiper-item>
+		<image mode="widthFix" src="//aecpm.alicdn.com/simba/img/TB15tIjGVXXXXcoapXXSutbFXXX.jpg"></image>
+	</swiper-item>
+</swiper>

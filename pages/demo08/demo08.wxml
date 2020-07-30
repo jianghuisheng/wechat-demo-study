@@ -1,0 +1,11 @@
+<!--pages/demo08/demo08.wxml-->
+<!-- text支持文本长按复制 , 符号解码-->
+<text selectable decode>
+text
+1231&nbsp;   456 &lt;
+&nbsp; &lt; &gt; &amp; &apos; &ensp; &emsp;
+</text>
+
+<view>
+	text
+</view>

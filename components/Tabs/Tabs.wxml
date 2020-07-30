@@ -1,0 +1,11 @@
+<view class="tabs">
+	<view class="tabs-title">
+		<view wx:for="{{tabs}}" wx:key="id" class="title-item {{item.isActive?'active':''}}" bindtap="hanldeItemTap" data-index="{{index}}">
+			{{item.name}}
+		</view>
+	</view>
+	<view class="tabs-content">
+    <!-- 插槽占位符，用来显示父组件传递过来的标签内容部分 -->
+    <slot></slot>
+  </view>
+</view>

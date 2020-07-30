@@ -1,0 +1,10 @@
+<navigator url="/pages/demo10/demo10" open-type="navigate">轮播图页面</navigator>
+<navigator url="/pages/index/index" open-type="navigate">不能跳转到tabar页面</navigator>
+
+<!-- 关闭当前页跳转 -->
+<navigator url="/pages/demo10/demo10" open-type="redirect">轮播图页面</navigator>
+
+<!-- 会关闭所有非tarBar页面 -->
+<navigator url="/pages/index/index" open-type="switchTab">跳转到tabar页面</navigator>
+
+<navigator url="/pages/index/index" open-type="reLaunch">随便跳</navigator>

@@ -1,0 +1,14 @@
+<!--pages/demo09/demo09.wxml-->
+<text>pages/demo09/demo09.wxml</text>
+
+<!-- 土豆图床 -->
+<!-- 默认宽度是320*240px -->
+<image mode="" lazy-load src="https://ae01.alicdn.com/kf/H7a4e92c386a843eea76408d18b3e35c8q.jpg"></image>
+<!-- 完全缩放，轮播图多用 -->
+<!-- <image mode="aspectFit" src="https://ae01.alicdn.com/kf/H7a4e92c386a843eea76408d18b3e35c8q.jpg"></image> -->
+<!-- 短边 -->
+<!-- <image mode="aspectFill" src="https://ae01.alicdn.com/kf/H7a4e92c386a843eea76408d18b3e35c8q.jpg"></image> -->
+<!-- 宽度指定高度自己按比例来 -->
+<!-- <image mode="widthFix" src="https://ae01.alicdn.com/kf/H7a4e92c386a843eea76408d18b3e35c8q.jpg"></image> -->
+<!-- <image mode="top right" src="https://ae01.alicdn.com/kf/H7a4e92c386a843eea76408d18b3e35c8q.jpg"></image> -->
+  

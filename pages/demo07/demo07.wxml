@@ -1,0 +1,3 @@
+<!--pages/demo07/demo07.wxml-->
+<view hover-class="layers">pages/demo07/demo07.wxml</view>
+<view class="yuan" hover-class="layers"></view>

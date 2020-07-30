@@ -1,0 +1,24 @@
+/* pages/demo05/demo05.wxss */
+/* view{
+  width: 200px;
+  height: 200px;
+  font-size: 40px;
+  background-color: aqua;
+} */
+
+/* 
+ 1.设计稿 750px
+   750px = 750 rpx
+   1px = 1rpx
+  2.屏幕宽度变成 375px
+  375px = 750rpx
+  1px = 2rpx
+  1rpx = 0.5px
+*/
+view{
+  /* width: 200rpx; */
+  width: calc(750rpx * 100 / 375);
+  height: 200rpx;
+  font-size: 40rpx;
+  background-color: aqua;
+}
